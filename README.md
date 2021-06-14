@@ -6,7 +6,7 @@ Region-wise loss
 
 Repository of the paper [Region-wise Loss for Biomedical Image Segmentation](https://www.google.com).
 
-IMAGE
+![RWMaps](rwmaps.png "Region-wise maps")
 
 ### Table of Contents
 * [1. Region-wise loss](#1-region-wise-loss)
