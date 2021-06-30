@@ -48,7 +48,7 @@ The easiest way to reproduce our experiments is by installing nnUNet following i
 * training/network_training/network_trainer.py: after each epoch, we generated and evaluated the predictions (i.e., validation).
 * training/network_training/nnUNetTrainerV2.py: we changed the optimizer to Adam and selected which loss function to optimize.
 * training/loss_functions/deep_supervision.py: we passed the current epoch to the loss function in case it was needed, as in BoundaryLoss to decrease alpha.
-* (new) training/loss_functions/rwexp_loss.py: all studied loss functions can be found here.
+* (new file) training/loss_functions/rwexp_loss.py: all studied loss functions can be found here.
 
 How to use nnUNet to run our experiments (very short summary):
 1. (Recommneded) Create a virtual environment and install all the [required libraries](https://github.com/jmlipman/RegionWiseLoss/blob/main/nnUNet/requirements.txt)
