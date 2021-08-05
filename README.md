@@ -4,7 +4,7 @@ Region-wise loss
 [![Paper](https://img.shields.io/badge/arxiv-xxxx.xxxxx-blue)](https://www.google.com)
 [![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/jmlipman/RegionWiseLoss/blob/main/LICENSE)
 
-Repository of the paper [Region-wise Loss for Biomedical Image Segmentation](https://www.google.com).
+Repository of the paper [Region-wise Loss for Biomedical Image Segmentation](https://arxiv.org/abs/2108.01405).
 
 ![RWMaps](rwmaps.png "Region-wise maps")
 
@@ -63,7 +63,7 @@ How to use nnUNet to run our experiments (very short summary):
 @article{valverde2021regionwiseloss,
   title={Region-wise Loss for Biomedical Image Segmentation},
   author={Valverde, Juan Miguel and Tohka, Jussi},
-  journal={arXiv preprint arXiv:xxxx.xxxxx},
+  journal={arXiv preprint arXiv:2108.01405},
   year={2021}
 }
 ```
