@@ -1,7 +1,7 @@
 Region-wise loss
 ======================
 
-[![Paper](https://img.shields.io/badge/arxiv-xxxx.xxxxx-blue)](https://www.google.com)
+[![Paper](https://img.shields.io/badge/DOI-10.1016%2Fj.patcog.2022.109208-blue)](https://doi.org/10.1016/j.patcog.2022.109208)
 [![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/jmlipman/RegionWiseLoss/blob/main/LICENSE)
 
 Repository of the paper [Region-wise Loss for Biomedical Image Segmentation](https://arxiv.org/abs/2108.01405).
@@ -60,11 +60,15 @@ How to use nnUNet to run our experiments (very short summary):
 
 ### 3. Citation
 ```
-@article{valverde2021regionwiseloss,
-  title={Region-wise Loss for Biomedical Image Segmentation},
-  author={Valverde, Juan Miguel and Tohka, Jussi},
-  journal={arXiv preprint arXiv:2108.01405},
-  year={2021}
+@article{valverde2022rwloss,
+title = {Region-wise Loss for Biomedical Image Segmentation},
+author = {Juan Miguel Valverde and Jussi Tohka},
+journal = {Pattern Recognition},
+pages = {109208},
+year = {2022},
+issn = {0031-3203},
+doi = {https://doi.org/10.1016/j.patcog.2022.109208},
+url = {https://www.sciencedirect.com/science/article/pii/S0031320322006872},
 }
 ```
 
